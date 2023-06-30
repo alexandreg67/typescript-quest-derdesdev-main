@@ -129,9 +129,6 @@ class Weapon {
 }
 
 
-
-
-
 let hero1 = new HeroAxe("Louis");
 let hero2 = new HeroSword("Jeremy");
 

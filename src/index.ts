@@ -1,3 +1,4 @@
+console.log("Bonjour du js");
 
 class Hero {
     weapon!: Weapon;

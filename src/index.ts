@@ -132,8 +132,8 @@ class Weapon {
 
 
 
-let hero1 = new HeroSword("Louis");
-let hero2 = new HeroSword("Jermey");
+let hero1 = new HeroAxe("Louis");
+let hero2 = new HeroSword("Jeremy");
 
 let gameOver = false;
 
